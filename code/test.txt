@@ -1,0 +1,2 @@
+The content of the file test.txt is  :                                                                       
+This is the content of the file test.txt.
